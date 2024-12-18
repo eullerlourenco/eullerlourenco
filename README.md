@@ -1,6 +1,6 @@
 # Euller Lourenço 🚀
 
-I am a Systems Analysis and Development student with a passion for programming, particularly web development. I enjoy tackling new challenges, continuously learning, and adapting to new technologies. Currently, I am deepening my expertise by studying Laravel and Vue.js to enhance my skills as a developer.
+I am a Full Stack Developer currently pursuing a degree in Systems Analysis and Development. I have solid development knowledge, with a particular passion for Web Development. I enjoy facing new challenges, continuously learning, and adapting to new technologies. Currently, I am working on freelance and personal projects, and I am studying Laravel and Vue.js to further enhance my skills.
 
 Glad to have you here on my GitHub profile!
 
