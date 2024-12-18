@@ -3,6 +3,7 @@
 I am a Full Stack Developer currently pursuing a degree in Systems Analysis and Development. I have solid development knowledge, with a particular passion for Web Development. I enjoy facing new challenges, continuously learning, and adapting to new technologies. Currently, I am working on freelance and personal projects, and I am studying Laravel and Vue.js to further enhance my skills.
 
 Glad to have you here on my GitHub profile! 
+
 If you're interested in following my journey, learning together, or collaborating on exciting projects, feel free to hit that follow button!
 
 ## My Favorite Technologies ! 💻
