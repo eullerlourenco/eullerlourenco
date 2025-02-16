@@ -19,5 +19,5 @@ If you're interested in following my journey, learning together, or collaboratin
 
 ## Contact Me 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euller-louren%C3%A7o/)](https://www.linkedin.com/in/euller-lourenco/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euller-louren%C3%A7o/)](https://www.linkedin.com/in/eullerlourenco/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:euller.lourenco@gmail.com)](mailto:euller.lourenco.silva@gmail.com)
