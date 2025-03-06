@@ -13,9 +13,9 @@ If you're interested in following my journey, learning together, or collaboratin
 
 ## Statistics 🚀
 
-![Euller Lourenço GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=els2003&layout=compact&theme=highcontrast)
+![Euller Lourenço GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eullerlourenco&layout=compact&theme=highcontrast)
 
-![Euller Lourenço GitHub stats](https://github-readme-stats.vercel.app/api?username=els2003&show_icons=true&theme=highcontrast)
+![Euller Lourenço GitHub stats](https://github-readme-stats.vercel.app/api?username=eullerlourenco&show_icons=true&theme=highcontrast)
 
 ## Contact Me 📫
 
