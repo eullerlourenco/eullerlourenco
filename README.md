@@ -13,11 +13,11 @@ If you're interested in following my journey, learning together, or collaboratin
 
 ## Statistics 🚀
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eullerlourenco&layout=compact&theme=highcontrast" alt="stats" />
+<h2 align="center">
+  <a href="#"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=eullerlourenco&theme=github_dark&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Langs %"></a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=eullerlourenco&show_icons=true&theme=highcontrast" alt="stats" />
-</div>
+  <a href="#"><img src="https://github-stats-extended.vercel.app/api?username=eullerlourenco&show_icons=true&theme=github_dark" alt="GitHub Stats"></a>
+</h2>
 
 ## Contact Me 📫
   
